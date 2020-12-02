@@ -3,7 +3,7 @@
 
 Create your custom bot, explore the Whisp, make friends along the way. Features RPG and Survival game mechanics with an original narrative. An "open-world" style of play allows for the player to complete the game in a variety of ways. Games will take from 30 mintues to 3 hours depending on how long the player wishes to play.
 
-Email me your final score sheet: bootgamepython@gmail.com or commit your file to the "hall-of-fame" folder
+Email me your final score sheet: bootgamepython@gmail.com or commit your .txt file to the "hall-of-fame" folder
 
 _Version 0.97 tested using Windows 10, VS Code, and Python 3.8.5 64-bit (conda)_
 
