@@ -7,35 +7,30 @@
    2) Make sure Python 3.8 or later is installed
    3) Open the 'boot-game' folder in VS Code and run the file called 'boot-game.py'
 
-   *** Version 0.97 was tested using Windows 10, VS Code command line terminal, and Python 3.8.5 64-bit (conda)
-   *** Built with Python Standard Library
+Version 0.97 was tested using Windows 10, VS Code command line terminal, and Python 3.8.5 64-bit (conda)
+Built with Python Standard Library
 
-   Game description:
+boot-game folder contents:
 
-   The player will navigate quests while trying to gain as much experience and money as possible.
-   Player decisions will shape the narritive and the environment. NPCs will change based on interactions and passage of time.
-   Features original narrative along with RPG and Survival based game mechanics.
-   An "open-world" style of game play allows for the player to complete the game in a wide variety of different ways.
-   Games will take from 30 mintues to 3 hours depending on how long the player wishes to play.
+                         "text" folder ---> Contains all txt files and art
+                          boot-game.py ---> Main game file
+                              chest.py ---> for class Chest
+                                npc.py ---> for class NPC
+                             p_func.py ---> for printing and character sheet related functions
+                               room.py ---> for class Room
+                     starting_sheet.py ---> Initializes player's character sheet
 
-   At conclusion of the game (either by death or by choice), the player will see a detailed breakdown of their final score.
-   Final scoring is based on a wide variety of factors and is on a scale of 0 to 20.
-   A txt file will also be created containing the player's final data and final score. 
-   This file will be in the root directory of the 'boot-game' folder.
+~Line index for boot-game.py (v0.97):
 
-   *** Code Notes ***
+                                Functions: ~lines 40 to 1,450
+                     Object Instantiation: ~lines 1,460 to 1,735
+   Intro, Character Creation, Break Point: ~lines 1,745 to 2,170
+                           Main Game Loop: ~lines 2,180 to 3,240
 
-   Functions, Objects, and While Loop conditions are in alphabetical order.
-
-                    ~Line index for boot-game.py (v0.97):
-
-                                           Functions: ~lines 70 to 1,425
-                                Object Instantiation: ~lines 1,475 to 1,720
-              Intro, Character Creation, Break Point: ~lines 1,785 to 2,170
-                                      Main Game Loop: ~lines 2,200 to 3,250
+Functions, Objects, and While Loop conditions are in alphabetical order.
 
     Questions or Comments? ---> bootgamepython@gmail.com
-                                github.com/JustinBirchard
+          Additional info  ---> github.com/JustinBirchard
 """
 
 import os.path # used in character_sheet loading sequence
