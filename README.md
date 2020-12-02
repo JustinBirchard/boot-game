@@ -3,9 +3,7 @@
 
 **To run the game:** Open the 'boot-game' folder in VS Code and run 'boot-game.py'. Python 3.8 or later is recommended.
 
-**Version Notes:**
-
-Version 0.97 was tested using Windows 10, VS Code command line terminal, and Python 3.8.5 64-bit (conda)
+Current version is 0.97. Tested using Windows 10, VS Code command line terminal, and Python 3.8.5 64-bit (conda)
 
 ### Game description:
 
