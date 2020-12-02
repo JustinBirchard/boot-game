@@ -1,9 +1,7 @@
 # boot-game
 ### Boot is a sci-fi text game about a small robot trying to navigate the galaxy.
 
-**To run the game:** Open the 'boot-game' folder in VS Code and run 'boot-game.py'
-
-VS Code & Python 3.8 or later is recommended
+**To run the game:** Open the 'boot-game' folder in VS Code and run 'boot-game.py'. Python 3.8 or later is recommended.
 
 **Version Notes:**
 
