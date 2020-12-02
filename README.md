@@ -1,6 +1,10 @@
 # boot-game
 ### Boot is a sci-fi text game about a small robot trying to navigate the galaxy.
-Version 0.97 tested using Windows 10, VS Code, and Python 3.8.5 64-bit (conda)
+### Create your custom bot, explore the Whisp, make friends along the way. ###
+Features RPG and Survival mechanics with an original narrative.
+An "open-world" style of game play allows for the player to complete the game in a variety of ways.
+
+_Version 0.97 tested using Windows 10, VS Code, and Python 3.8.5 64-bit (conda)_
 
 **To run the game:** Open the 'boot-game' folder in VS Code and run 'boot-game.py'. Python 3.8 or later is recommended.
 
@@ -8,9 +12,7 @@ Version 0.97 tested using Windows 10, VS Code, and Python 3.8.5 64-bit (conda)
 
    The player will navigate quests while trying to gain as much experience and money as possible.
    Player decisions will shape the narrative and game environment. NPCs will change based on interactions and passage of time.
-   Features original narrative along with RPG and Survival based game mechanics.
-   An "open-world" style of game play allows for the player to complete the game in a wide variety of different ways.
-   Games will take from 30 mintues to 3 hours depending on how long the player wishes to play.
+   
 
    At conclusion of the game (either by death or by choice), the player will see a detailed breakdown of their final score.
    Final scoring is based on a wide variety of factors and is on a scale of 0 to 20.
