@@ -9,7 +9,7 @@ _Version 0.97 tested using Windows 10, VS Code, and Python 3.8.5 64-bit (conda)_
 
 **To run the game:**  ***Open the 'boot-game' folder in VS Code and run 'boot-game.py'. Python 3.8 or later is recommended***
 
-### Game description:
+## Game description:
 
 The player will created a custom, detailed robot and then go on to explore a large spaceship filled with NPCs, quests, treasure, and lore. The goal is to gain as much experience and money as possible.
 
@@ -20,7 +20,7 @@ Final scoring is based on a wide variety of factors and is on a scale of 0 to 20
 A txt file will also be created containing the player's final data and final score. 
 These files can be found in the root directory of the 'boot-game' folder.
 
-## boot-game folder contents: ##
+## boot-game folder contents:
 
 **"text" folder** Contains all txt files and art
 
