@@ -22,6 +22,8 @@ These files can be found in the root directory of the 'boot-game' folder.
 
 ## boot-game folder contents:
 
+**"hall-of-fame folder"** Contains score sheets for completed games (commit yours to this folder if you finish the game!)
+
 **"text" folder** Contains all txt files and art
 
 **boot-game.py** Main game file
