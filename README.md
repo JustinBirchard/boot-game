@@ -1,20 +1,20 @@
 # boot-game
-Boot is an experimental sci-fi text game about a small robot trying to navigate the galaxy.
+### Boot is a sci-fi text game about a small robot trying to navigate the galaxy.
 
 **To run the game:**
-Open the 'boot-game' folder in VS Code and run the file called 'boot-game.py'
+Open the 'boot-game' folder in VS Code and run 'boot-game.py'
 
 **Requirements:**
-VS Code
-Python 3.8 or later is recommended
+    VS Code
+    Python 3.8 or later is recommended
 
 **Version Notes:**
-Version 0.97 was tested using Windows 10, VS Code command line terminal, and Python 3.8.5 64-bit (conda)
+    Version 0.97 was tested using Windows 10, VS Code command line terminal, and Python 3.8.5 64-bit (conda)
 
-## Game description:
+### Game description:
 
    The player will navigate quests while trying to gain as much experience and money as possible.
-   Player decisions will shape the narritive and the environment. NPCs will change based on interactions and passage of time.
+   Player decisions will shape the narrative and game environment. NPCs will change based on interactions and passage of time.
    Features original narrative along with RPG and Survival based game mechanics.
    An "open-world" style of game play allows for the player to complete the game in a wide variety of different ways.
    Games will take from 30 mintues to 3 hours depending on how long the player wishes to play.
