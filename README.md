@@ -18,8 +18,8 @@ Final scoring is based on a wide variety of factors and is on a scale of 0 to 20
 A txt file will also be created containing the player's final data and final score. 
 These files can be found in the root directory of the 'boot-game' folder.
 
-### NOTE: README.md is still under construction ##
+### NOTE: README is still under construction ##
 
-#### For detailed chart of modules, functions, objects, and more please visit [The boot-game Google Sheet](https://docs.google.com/spreadsheets/d/1X2Z0Iig4bjpgKo8CwmXPY3DZWwZvcIDpq82WS9JHLCc/edit?usp=sharing)
+#### Detailed chart of modules, functions, objects, and more:  [The boot-game Google Sheet](https://docs.google.com/spreadsheets/d/1X2Z0Iig4bjpgKo8CwmXPY3DZWwZvcIDpq82WS9JHLCc/edit?usp=sharing)
 
 Questions or comments: bootgamepython@gmail.com
