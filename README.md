@@ -22,6 +22,22 @@ These files can be found in the root directory of the 'boot-game' folder.
 
 ### NOTE: README is still under construction ##
 
+boot-game folder contents:
+
+"text" folder ---> Contains all txt files and art
+
+boot-game.py ---> Main game file
+
+chest.py ---> for class Chest
+
+npc.py ---> for class NPC
+
+p_func.py ---> for printing and character sheet related functions
+
+room.py ---> for class Room
+
+starting_sheet.py ---> Initializes player's character sheet
+
 #### Detailed chart of modules, functions, objects, and more:  [The boot-game Google Sheet](https://docs.google.com/spreadsheets/d/1X2Z0Iig4bjpgKo8CwmXPY3DZWwZvcIDpq82WS9JHLCc/edit?usp=sharing)
 
 Questions or comments: bootgamepython@gmail.com
