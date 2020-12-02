@@ -5,7 +5,7 @@ Create your custom bot, explore the Whisp, make friends along the way. Features 
 
 _Version 0.97 tested using Windows 10, VS Code, and Python 3.8.5 64-bit (conda)_
 
-**To run the game:  Open the 'boot-game' folder in VS Code and run 'boot-game.py'. Python 3.8 or later is recommended**
+**To run the game:**  ***Open the 'boot-game' folder in VS Code and run 'boot-game.py'. Python 3.8 or later is recommended***
 
 ### Game description:
 
