@@ -1,0 +1,68 @@
+===========================================================================
+===========================================================================
+                Name Zippy the 1st
+              Origin Earth
+             Species Digital
+            Bot Type DLH-15
+
+                 Day      11
+             Reboots       4
+
+               Level       4
+            Total XP    6200
+         XP til next    6611
+    Completed Quests    11/11
+
+              Health     6/8    xxxxxx--
+               Power     6/10    xxxxxx----
+
+           Attribute   Value    Bar
+                 Int       9    xxxxxxxxx
+                 Alt       9    xxxxxxxxx
+                 Itu      12    xxxxxxxxxxxx
+                 Chr       9    xxxxxxxxx
+                 Lck      13    xxxxxxxxxxxxx
+                 Str       1    x
+                 Dex       1    x
+
+            CURRENCY:
+                Gold       7
+                CAMs      13
+
+               ITEMS:
+                      Map of the Whisp
+                      Notecard that says "123"
+                      Napkin with "982014" written on it
+                      Tricipian Voltage Extender
+                      Tricipian Forged Ring
+
+       ACTIVE QUESTS:
+    COMPLETED QUESTS:
+                      Enter Zippy the 1st's Room & Use Chest
+                      Use Zippy the 1st's Hibernation Port
+                      Recharge Battery At Charging Station
+                      Power for CAMs
+                      Get Package
+                      Survive
+                      Return the Favor
+                      Find Adapter
+                      Five Days of Work
+                      Win all the CAMs
+                      Lost Earring
+===========================================================================
+===========================================================================
+
+                                                          RATING
+
+      On a scale of 0 to 20 your FINAL SCORE was 18 --->  Excellent
+
+                           FINAL SCORING BREAKDOWN:      
+
+                   You acquired 6200 out of 6200 XP --->  Perfect!
+                  You completed 11 out of 11 Quests --->  Perfect!
+                           You required 4 reboot(s) --->  Average
+                           You finished with 7 Gold --->  Excellent
+                          You finished with 13 CAMs --->  Good
+              You upgraded the hull of your HostBot --->  Good
+          You acquired a Tricipian Voltage Extender --->  Good
+               You acquired a Tricipian Forged Ring --->  Good

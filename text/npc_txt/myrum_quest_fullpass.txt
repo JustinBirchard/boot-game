@@ -1,0 +1,26 @@
+
+Myrum approaches you with an eager expression on her face.
+
+"Hey there, I see you have the package!"
+"Thank you for going to all of that trouble."
+
+"Remember, this wasn't a favor, it was a job..."
+"So here are two Gold pieces for your work.
+ 
+Myrum eagerly opens the package, there are two jewelry boxes inside.
+
+"And this..." Myrum says as she hands you one of the boxes.
+"This is for you."
+"I bought us each a Tricipian-forged ring!"
+
+"Tricipian technology is quite advanced."
+"Anyone who wears a Tricipian-forged ring will be able to bend the laws of probability slightly in their own favor."
+"It doesn't work for everything, but it's great for when you need a bit of extra luck."
+
+"Speaking of which, I noticed you've been hanging around Artupio."
+
+Myrum winks.
+
+"He'll never know what hit him."
+
+"Have fun!"

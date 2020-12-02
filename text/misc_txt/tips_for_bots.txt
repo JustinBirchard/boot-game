@@ -1,0 +1,21 @@
+You quickly scan through the book, here are some highlights:
+
+----> You will inevitably run out of power and need to be rescued.
+      Rescue costs 2 CAMs and causes one game day to pass.
+
+----> Keep an eye on your Character Sheet to monitor your health, battery power, currency, passage of time, and other info.
+
+----> If you need a day to pass, use the Hibernation Port in your room.
+
+----> Take time to examine the rooms you visit.
+
+----> There are two ways to die:
+      1) If your health goes to zero
+      2) If you run out of battery power and the combination of the CAMs in your chest and inventory is less than 2.
+
+----> The safest place to store money is inside of your chest.
+
+----> Room options and NPC dialouge will change based on decisions you've made and the passage of time.
+
+----If you get stuck, try talking to NPCs again, take an action that causes time to pass,
+    or revisit Rooms you have already explored.

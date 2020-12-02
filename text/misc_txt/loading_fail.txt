@@ -1,0 +1,6 @@
+************************
+Character file not found
+************************
+
+Make sure name was entered correctly.
+Make sure the file "[yourcharactername]_original.txt" is in the root directory of the 'boot' folder.

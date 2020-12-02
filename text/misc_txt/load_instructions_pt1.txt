@@ -1,0 +1,7 @@
+***Make sure that your original character file is in the root directory of 'boot' game folder***
+
+***Your original character file is a .txt file.***
+
+***The file name will start with your character's name and end with _original.txt***
+
+***EG- If you named your character 'Ralph', then your character file will be 'Ralph_original.txt'***

@@ -1,0 +1,7 @@
+"First, make sure you've taken the time to get your bearings here on the Whisp."
+"The more knowledge you have before you leave the better off you'll be."
+
+"Aside from that, make sure that the currency you want to spend is in your inventory."
+
+"You can leave currency and items here in your chest if you'd like..." 
+"But you will not have access to your chest while you are away."

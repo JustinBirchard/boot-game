@@ -1,0 +1,15 @@
+"The bad news is that I had to install your BrainChip into a DLH-15 HostBot."
+
+"A HostBot is the 'body' that hosts your BrainChip."
+
+"As you've probably already noticed--"
+"The DLH-15 is not a great model."
+"We had hoped to get you something better, but this bot was all we could afford."
+
+"Your HostBot has humanoid form, but you won't have the same biological senses as your former body."
+"Instead, you'll be experiencing the world via your HostBot's internal terminal."
+
+"Another thing-- the DLH-15 is small with extremely limited strength and dexterity."
+"So you'll have to be careful as your HostBot is easily damaged."
+
+"I'll tell you a bit about the Whisp, and then we'll finish booting you up..."

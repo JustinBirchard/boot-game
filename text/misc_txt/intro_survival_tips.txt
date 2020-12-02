@@ -1,0 +1,21 @@
+                       *******************
+                       *******************
+                       *******************
+
+                       GAME TIPS:
+
+                       --> Keep an eye on your Character Sheet to monitor passage of time, battery power, health, active quests, and other important info.
+
+                       --> You will die and the game will be over if:
+
+                               1) Your health goes to zero
+                               2) You run out of battery power and have no CAMs in your chest or inventory to pay for it
+
+                       --> The world will change based on the decisions you make and passage of time.
+                           If you talk to the same NPC twice, you may find they have new things to say.
+                           Similarly, locations and items will change as the game progresses.
+                           If you get stuck, try talking to NPCs again or revisiting places you have already explored.
+
+                       *******************
+                       *******************
+                       *******************

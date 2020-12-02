@@ -1,0 +1,33 @@
+Artupio looks at you and says--
+"Ok, to start with, each of us will put 2 CAMs into the pot."
+"That means for each game there are 6 CAMs available to win."
+
+"Each game consists of THREE rounds and TWO tosses."
+
+"In ROUND ONE we make our first toss." 
+"We'll all simultaneously throw a 100-sided die onto the table."
+
+"Player scores are determined by the value of the die on their first toss."
+
+"Note that we'll be able to see each other's scores at all times."
+
+"In ROUND TWO we each predict who we think we will win the game."
+
+"There's still another toss before the end of the game, so you'll have to make an educated guess."
+
+"In ROUND THREE we make our second and final toss by throwing another 100-sided die."
+
+"Your final score is determined by the sum of your two tosses."
+
+"At this point the GAME IS OVER and we determine how the CAMs are divided."
+
+"Any player who correctly guessed the winner of the game will receive 1 CAM."
+"The player with the highest score is the winner, and will get whatever CAMs remain in the pot."
+
+"After entering the game you have a chance to get anywhere from 0-6 CAMs back in return."
+
+"I should also mention-- "
+"If any two players are tied at ANY POINT in the game, then the scores are reset and the game restarts."
+
+"Come back and see us anytime you want to try a game."
+"I'll keep playing until my pockets are empty."

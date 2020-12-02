@@ -1,0 +1,25 @@
+"Yes, this is my shop."
+
+"We offer a variety of services for the ship, the crew, and the patients."
+"We also handle all the incoming and outgoing ships."
+
+"I used to have a bigger staff, but the Whisp had to make some budget cuts recently."
+
+"Just Gleemon and I now."
+"We're making good money, but it's too much work for only two people."
+"Hence the mess..."
+
+Orix laughs.
+
+"Ah who am I kidding? It's always been a bit messy. And it'll always be a bit messy."
+
+"Anyway, have a look around."
+"I've got a few things for sale if you're interested."
+"Most of it is more suitable for biological types, but I've got a thing or two for bots as well."
+
+"Oh, I should also mention--" 
+"I'm looking for some help if you know anyone interested in some extra coin."
+"I can't afford anyone full-time, but I've got five days of work available for anyone who wants it."
+
+"I'd offer it to you, but I'm not sure someone your size could handle it."
+"Maybe once you upgrade your HostBot."

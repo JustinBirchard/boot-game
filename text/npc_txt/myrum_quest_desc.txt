@@ -1,0 +1,23 @@
+"No need to do me any favors."
+"But I'll hire you for a job."
+
+"Head to the Main Hall, my room is the first door on the east side."
+"The code to get in is 982014. Here, I'll write it down for you."
+
+Myrum takes out a pen, scratches down the code on the corner of a napkin, and hands it to you.
+
+"Once you're in, head to the kitchen and open the top cabinet."
+"You'll see a jar that's holding some Gold and an Order Form."
+
+"Grab 5 Gold and the Order Form and take them to the Dock Shop."
+"There you'll find the Dock Shop Chest."
+"Place the Order Form and 5 Gold into the chest."
+
+"Orix works at the Dock Shop, he'll make sure the order goes through."
+
+"After two days have passed, my shipment will arrive and Orix will place my package into the community mail container in the Receiving Office."
+
+"Once it's ready for pickup, if you could please deliver it to me."
+"I know I'm asking a lot, but I'll make it worth your while."
+
+"Thanks for your help!"

@@ -1,0 +1,16 @@
+Suddenly your sensors come back online.
+
+You are on Fleer's operating bench...
+
+Fleer says "Ah, you're back."
+"IG-42 found you on the floor, you took some damage."
+"You were offline for a full day."
+
+"Give me just a sec, I'll get you charged back up."
+
+"IG-42 retreived your CAMs and Gold out of your chest."
+"But don't worry, you'll find all of your currency in your inventory now."
+"Bosses just want to make sure there's money up front before we treat anyone."
+
+"If I were you, I'd put some money back in your chest once you're out of here."
+"For bots of your stature, money is always safest in a locked chest."

@@ -1,0 +1,61 @@
+===========================================================================
+===========================================================================
+                Name G-Ballz
+              Origin Earth
+             Species Digital
+            Bot Type DLH-15
+
+                 Day       9
+             Reboots       2
+
+               Level       2
+            Total XP    1700
+         XP til next     831
+    Completed Quests     6/11
+
+              Health     8/8    xxxxxxxx
+       Battery Power     4/9    xxxx-----
+
+           Attribute   Value    Bar
+                 Int      10    xxxxxxxxxx
+                 Alt       9    xxxxxxxxx
+                 Itu      11    xxxxxxxxxxx
+                 Chr      10    xxxxxxxxxx
+                 Lck       8    xxxxxxxx
+                 Str       1    x
+                 Dex       1    x
+
+            CURRENCY:
+                Gold       2
+                CAMs       7
+
+               ITEMS:
+                      Map of the Whisp
+                      Notecard that says "few"
+                      Tricipian Voltage Extender
+                      Win all the CAMs
+
+    COMPLETED QUESTS:
+                      Recharge Battery At Charging Station
+                      Enter G-Ballz's Room & Use Chest
+                      Use G-Ballz's Hibernation Port
+                      Power for CAMs
+                      Get Package
+                      Five Days of Work
+===========================================================================
+===========================================================================
+
+                                                          RATING
+
+      On a scale of 0 to 20 your FINAL SCORE was 10 --->  Average
+
+                           FINAL SCORING BREAKDOWN:      
+
+                   You acquired 1700 out of 6200 XP --->  Average
+                   You completed 6 out of 11 Quests --->  Average
+                           You required 2 reboot(s) --->  Excellent
+                           You finished with 2 Gold --->  Below Average
+                           You finished with 7 CAMs --->  Average
+              You upgraded the hull of your HostBot --->  Good
+          You acquired a Tricipian Voltage Extender --->  Good
+         You didn't acquire a Tricipian Forged Ring --->  Average 

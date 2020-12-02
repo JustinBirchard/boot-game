@@ -1,0 +1,15 @@
+"The Whisp is a small ship -- about 10 crew and 10 passengers at any given time."
+
+"We're not directly allied with any Galactic Government."
+"Instead we abide by the treaties established by the Consortium of Agreeable Merchants."
+
+"In the treaties it states that Digital and Biological life are to be protected as equals."
+
+"Unfortunately, many galactic governments don't see you as a legitimate form of life."
+"But we believe that all species, both Digital and Biological deserve a chance to live."
+
+"And that is why we have rescued and revived you."
+
+Fleer turns away from you and starts spinning some knobs on the Revival Computer.
+
+"Ok, we're just about done here..."

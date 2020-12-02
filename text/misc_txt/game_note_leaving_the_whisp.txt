@@ -1,0 +1,13 @@
+          ***GAME NOTE***
+
+          If you choose to leave via holographic transport:
+
+              --Episode One will conclude and the game will be over
+
+              --Your final character will be saved to a file called {your character's name}.txt
+                If an Episode Two is released you will be able to import your character and continue the story.
+
+              --The "unused" character you created will still be available to reload if you would like to replay Episode One.
+                The file name for your "unused" character is {your character's name}_original.txt
+
+              --The above files can be found in the root directory of the "boot" game folder

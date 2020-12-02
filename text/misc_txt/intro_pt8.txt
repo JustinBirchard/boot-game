@@ -1,0 +1,31 @@
+"A few final things I am obliged to mention..."
+
+"In accordance with laws outlined by the Consortium of Agreeable Merchants, we have provided you with 5 CAMs."
+"You will find them in your personal chest, which is in your room."
+
+"Oh right. You don't know what a CAM is..."
+
+"The Consortium of Agreeable Merchants does not believe in the value of Gold." 
+"Therefore they have created their own currency called 'CAMs'."
+
+"1 Gold piece is equivilent to approximately 10 CAMs."
+"In order to survive, you'll need both CAMs and Gold."
+
+"Your first objective should be to try to save up as much currency as you can."
+
+"Your second objective should be to head to the Tricpian Merchant Market."
+"There you will be able to purchase a new HostBot and other items."
+
+"It would be dangerous for you to physically leave the Whisp with a DLH-15 HostBot, you are too fragile."
+"So you'll want to travel there holographically."
+
+"To learn more about holographic travelling, go see Gleemon, she works in the Holographic Transport Station."
+
+"Another thing--"
+
+"Your HostBot runs on a rechargable battery cell."
+"Your battery is fully charged right now, but you'll need to keep an eye on your energy level."
+"If you run out of power you will likely take damage."
+"And it costs 2 CAMs for a recharge and reboot."
+
+Fleer pauses for a moment.

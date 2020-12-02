@@ -1,0 +1,10 @@
+"I've left a book for you in your room."
+"It contains some tips for first time bots, read it if you get stuck."
+
+Fleer smiles and says--
+"From here on out you'll be on your own."
+"But feel free to come back and see me if you need anything."
+
+"Good luck!"
+
+Fleer turns around and returns to his work.

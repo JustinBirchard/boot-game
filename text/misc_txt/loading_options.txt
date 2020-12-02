@@ -1,0 +1,2 @@
+1: Restart with your original character at the beginning of Episode 1
+2: Quit (You can reload your original character later by choosing 'Load' option and then entering your character's name when prompted.)

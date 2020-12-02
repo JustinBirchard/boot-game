@@ -1,0 +1,11 @@
+"But this is just a baseline."
+
+"The i26 BrainChips have a unique feature that allows you to assign skill attibributes to yourself!"
+
+"Keep in mind, we are not able to upgrade your HostBot attributes, like Strength and Dexterity."
+"That would require a different model of HostBot."
+
+"But we can upgrade your BrainChip attributes like Intelligence, Charisma, Intuition, Alertness, and Luck."
+
+"Your Milky Way BrainChip has the capacity to receive three upgrades during your first boot."
+"You will instruct me on how the upgrades should be dispersed within your system."
