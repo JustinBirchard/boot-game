@@ -36,7 +36,7 @@ These files can be found in the root directory of the 'boot-game' folder.
 
 **starting_sheet.py** Initializes player's character sheet
 
-#### Detailed chart of modules, functions, objects, and more:  [The boot-game Google Sheet](https://docs.google.com/spreadsheets/d/1X2Z0Iig4bjpgKo8CwmXPY3DZWwZvcIDpq82WS9JHLCc/edit?usp=sharing)
+### Detailed chart of modules, functions, objects, and more:  [The boot-game Google Sheet](https://docs.google.com/spreadsheets/d/1X2Z0Iig4bjpgKo8CwmXPY3DZWwZvcIDpq82WS9JHLCc/edit?usp=sharing)
 
 Questions or comments: bootgamepython@gmail.com
 
