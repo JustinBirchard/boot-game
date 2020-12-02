@@ -3,11 +3,7 @@
 
 **To run the game:** Open the 'boot-game' folder in VS Code and run 'boot-game.py'
 
-**Requirements:** 
-
-VS Code
-
-Python 3.8 or later is recommended
+VS Code & Python 3.8 or later is recommended
 
 **Version Notes:**
 
